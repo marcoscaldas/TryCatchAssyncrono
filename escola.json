@@ -1,0 +1,40 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Ana",
+            "idade": 15,
+            "notaFinal": 8.5
+        },
+        {
+            "id": 2,
+            "nome": "Bruno",
+            "idade": 14,
+            "notaFinal": 7
+        },
+        {
+            "id": 3,
+            "nome": "Carlos",
+            "idade": 16,
+            "notaFinal": 9.2
+        },
+        {
+            "id": 4,
+            "nome": "Diana",
+            "idade": 15,
+            "notaFinal": 6.8
+        }
+    ],
+    "professores": [
+        {
+            "id": 1,
+            "nome": "Prof. João",
+            "disciplina": "Matemática"
+        },
+        {
+            "id": 2,
+            "nome": "Prof. Maria",
+            "disciplina": "História"
+        }
+    ]
+}
